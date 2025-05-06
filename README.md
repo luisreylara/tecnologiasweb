@@ -17,3 +17,17 @@
 
 ## Instalación de TypeScript
 [TypeScriptlang](https://www.typescriptlang.org/)
+
+>[!NOTE]
+>
+>Abrir una terminal y capturar el siguiente comando
+```
+npm install -g typescript
+```
+
+>[!NOTE]
+>
+>para comprobar que se instaló TypeScript, ejecutar el siguiente comando
+```
+tsc --version
+```
