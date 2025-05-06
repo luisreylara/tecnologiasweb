@@ -1,5 +1,5 @@
-# Materia de tecnologias web
-## repo para la materia de tecnologías WEB
+# Materia de tecnologías web
+## repo 
 
 >[!NOTE]
 >
