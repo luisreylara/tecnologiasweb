@@ -32,5 +32,12 @@ npm install -g typescript
 tsc --version
 ```
 
-## Ejericicios y documentaciónde TypeScript
+## Instalaciones adicionales
+* [Vue Oficial](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+* [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+* [.env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+
+## Ejericicios y documentación de TypeScript
 [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
