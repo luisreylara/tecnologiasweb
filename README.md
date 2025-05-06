@@ -31,3 +31,6 @@ npm install -g typescript
 ```
 tsc --version
 ```
+
+## Ejericicios y documentaciónde TypeScript
+[The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
