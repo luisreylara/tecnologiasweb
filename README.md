@@ -16,7 +16,7 @@
 [Json Viewer Awesome](https://chromewebstore.google.com/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc?pli=1)
 
 ## Instalación de TypeScript
-[TypeScriptlang](https://www.typescriptlang.org/)
+* [TypeScriptlang](https://www.typescriptlang.org/)
 
 >[!NOTE]
 >
